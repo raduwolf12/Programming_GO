@@ -12,3 +12,4 @@ Programming elements in the GO language
   - Date +/- a specified number of days
 - Interpolation with spline functions. Give n points in the plane by their coordinates: (x [i], y [i]) and m values z [i]. Determine the values of the spline function at points z [i], where the spline function is determined using the n given points.
 - Linear regression. They are given n points in the plane by their coordinates: (x [i], y [i]). Determine the regression line that approximates the given points.
+- Fick equation.
